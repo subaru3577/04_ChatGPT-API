@@ -8,7 +8,7 @@ This work has been submitted in partial fulfilment of the requirements of the Ma
 
 This work aims to extract key information about child labour, such as countries and commodities, from the text of news articles. However, since the text files include website headers, footers, and advertisements, their readability is quite low. To overcome this challenge, we utilised the ChatGPT API, which excels at understanding the context of articles and filtering out irrelevant information.
 
-- *Topic: Child Labour*  
+- *Topic: Child Labour, News Article*  
 - *Keywords: Generative AI, ChatGPT API, NLP (Natural Language Processing), Interactive Visualisation*
 
 **Disclaimer:**  
