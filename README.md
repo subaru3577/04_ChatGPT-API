@@ -3,6 +3,7 @@ This work has been submitted in partial fulfilment of the requirements of the Ma
 - Date of submission: 23 April 2024
 - Author: Subaru Shimizu
 
+[JupyterNotebook](https://github.com/subaru3577/04_ChatGPT-API/blob/main/ChatGPT_API.ipynb) is available.
 
 **Overview:**  
 
